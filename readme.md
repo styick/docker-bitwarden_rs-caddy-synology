@@ -6,6 +6,8 @@ The goal is to keep the Synology NAS system untouched to be upgrade-proof. This 
 
 Despite this has been made to run on Synology NAS, this should run on other systems with / without minor adaptations.
 
+[![Buy me a coffee](./res/default-yellow.png)](https://www.buymeacoffee.com/ju9hJ8RqGk)
+
   * [Documentation](#documentation)
   * [Pre-requisite](#pre-requisite)
     + [Conventions](#conventions)
@@ -108,3 +110,4 @@ Modifying `Caddyfile` to filter ip addresses allowed to access `/admin`. Does no
 
 ## Collaboration
 Feel free to propose any optimization through pull requests
+
